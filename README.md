@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Verse AI — Multimodal Food Intelligence Agent
 **Skill Wallet Capstone Project 3**
 
@@ -40,3 +41,7 @@ Never commit `secrets.toml`. The app uses Gemini 2.5 Flash for multimodal analys
 - Kitchen video is not processed directly; upload an exported frame.
 - Meal planning is general wellness support, not medical advice. BMR/TDEE use the Mifflin–St Jeor estimate and activity multipliers; individual needs vary.
 - For real deployment, add automated tests, observability, rate limiting, key rotation, data retention review, and domain expert validation.
+=======
+# food-verse-ai
+Multimodal Food Intelligence Agent — Skill Wallet Capstone Project 3
+>>>>>>> 6a7b4599a22f73c0af6ac97d432f284a62262316
